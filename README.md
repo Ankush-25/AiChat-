@@ -2,7 +2,6 @@
 
 A responsive and interactive chat application built with React, Vite, and Tailwind CSS. This application features real-time messaging, markdown support, and a clean, modern UI.
 
-![Chat Application Screenshot](./public/screenshot.png)
 
 ## ✨ Features
 
@@ -26,7 +25,7 @@ A responsive and interactive chat application built with React, Vite, and Tailwi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/Ankush-25/AiChat-.git
    cd chat-app
    ```
 
@@ -87,9 +86,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - your.email@example.com
+Your Name - [AnkitBhandari] bhandariji1398@gmail.com
 
-Project Link: [https://github.com/yourusername/chat-app](https://github.com/yourusername/chat-app)
+Project Link: [https://github.com/Ankush-25/AiChat-.git](https://github.com/Ankush-25/AiChat-.git)
 
 ## 🙏 Acknowledgments
 
